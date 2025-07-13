@@ -21,3 +21,5 @@ Credit card customer segmentation using SQL for analysis and machine learning (K
 ![image](https://github.com/Mainabryan/Credit-card-segmentation/blob/0f03a39b48c553def79d698c6dd8159a0dbe0537/Screenshot%202025-07-13%20055252.png)
 
 ![image](https://github.com/Mainabryan/Credit-card-segmentation/blob/80db850e2593645f527df90a67b6dea3c97e99f1/Screenshot%202025-07-13%20055335.png)
+
+![image](https://github.com/Mainabryan/Credit-card-segmentation/blob/60ae87e366a98c18dc3660871216ac4ecb2abeaa/Screenshot%202025-07-13%20055419.png)
